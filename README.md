@@ -178,7 +178,3 @@ Python的依赖库
 特别鸣谢！感谢前辈们的公开语音数据集
 
 如果提供的数据集链接无法打开和下载，请点击该链接 [OpenSLR](http://www.openslr.org)
-
-## License 开源许可协议
-
-[GPL v3.0](LICENSE) © [nl8590687](https://github.com/nl8590687)
