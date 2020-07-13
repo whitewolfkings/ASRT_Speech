@@ -182,12 +182,3 @@ Python的依赖库
 ## License 开源许可协议
 
 [GPL v3.0](LICENSE) © [nl8590687](https://github.com/nl8590687)
-
-## Contributors 贡献者们
-
-[@zw76859420](https://github.com/zw76859420) 
-@madeirak @ZJUGuoShuai @williamchenwl
-
-@nl8590687 (repo owner)
-
-[**打赏作者**](https://github.com/nl8590687/ASRT_SpeechRecognition/wiki/donate)
